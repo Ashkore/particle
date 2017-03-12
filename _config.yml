@@ -1,8 +1,8 @@
 # Site settings
 title: Sean Boyer's Profile
 description: Sean Boyer's Profile
-baseurl: "/particle" # the subpath of your site, e.g. /blog
-url: "github.com/ashkore" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
+#baseurl: "/particle" # the subpath of your site, e.g. /blog
+#url: "github.com/ashkore" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Sean Boyer
